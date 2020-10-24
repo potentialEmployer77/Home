@@ -2,7 +2,7 @@
 
 This is a GitHub account I've set up for the purpose of showcasing my programming projects. Here, you will find both finished projects as well as projects that I am currently working on. As most of the projects are private repositories, I've included login credentials at the top my resume for you to login with in order to access these projects (if you're interesting is looking at the source code).
 
-Currently, I have two projects that I am showcasing:
+Currently, I have two projects that I am excited to show you and talk to you about:
 
 1). [OsMowSis](https://github.com/potentialEmployer77/OsMowSisHome): A simulation program of an automated lawn-mowing system whereby a cohort of robotic lawn mowers is placed on a lawn and must scan and move around the lawn in order to cut all the grass, while also avoiding crashing into various types of obstacles on the lawn. This project was written in Java using the Swing GUI toolkit. Short video demonstration available [here](https://youtu.be/65dBQBcDRs4).
 
