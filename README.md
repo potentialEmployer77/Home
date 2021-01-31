@@ -17,7 +17,7 @@ This app is currently being beta tested and can be downloaded through the follow
 
 ![SpotBook_example](Documentation/GitHubImages/SpotBookImages/ic_launcher.png)
 
-2). Compiler: A compiler written in Java for a small language.
+3). [Compiler](https://github.com/potentialEmployer77/CompilerHome): A compiler written in Java for a small but fully-functional language.
 
 Thank you for your time and consideration and I look forward to hearing from you!
 
