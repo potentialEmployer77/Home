@@ -17,7 +17,7 @@ This app is currently being beta tested and can be downloaded through the follow
 
 ![SpotBook_example](Documentation/GitHubImages/SpotBookImages/ic_launcher.png)
 
-3). [Lion Compiler](https://github.com/potentialEmployer77/CompilerHome): A compiler written in Java for a small language called Lion. The front-end uses the Antlr toolkit to perform lexical, syntactic, and semantic analysis and outputs a three-adddress code IR. The back-end consumes the IR and performs register allocation, instruction selection, and code generation. The generated compiled code run on a MIPS machine.
+3). [Lion Compiler](https://github.com/potentialEmployer77/LionHome): A compiler written in Java for a small language called Lion. The front-end uses the Antlr toolkit to perform lexical, syntactic, and semantic analysis and outputs a three-adddress code IR. The back-end consumes the IR and performs register allocation, instruction selection, and code generation. The generated compiled code run on a MIPS machine.
 
 ![SpotBook_example](Documentation/GitHubImages/lion-resize25.png)
 
