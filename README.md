@@ -5,7 +5,7 @@ This is a GitHub account I've set up for the purpose of showcasing my programmin
 Currently, I have three projects that I am excited to showcase and talk to you about:
 
 1). [SpotBook](https://github.com/potentialEmployer77/SpotBookHome): An Android app for saving, searching, and sharing “spots” (places of interest). Combines geo-data, textual data, and media into a single cohesive entity (a “spot”). Solves a common limitation of existing apps (i.e., GoogleMaps, GooglePhotos, etc.) which only allow users to maintain collections of either media, geo-data, or textual data, but not all three together. 
-This app is currently being beta tested and can be downloaded through the following Firebase App Distribution [invitation link](https://youtu.be/jxqs0F_ICZM). 
+This app is currently being beta tested and can be downloaded through the following Firebase App Distribution [invitation link](https://appdistribution.firebase.dev/i/bb56b9b6a06b649b). 
 
 * Video demonstration available [here](https://youtu.be/jxqs0F_ICZM).
 
